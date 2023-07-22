@@ -1,0 +1,23 @@
+/**
+ * @name Kakashi
+ * @authorLink https://www.youtube.com/x1k2k11
+ * @version 1.0
+*/
+
+@import url("https://onkofonko.github.io/theme/fixedsource.css");
+@import url("https://onkofonko.github.io/theme/fixes.css");
+
+:root {
+    /*My Account Button*/
+    --username-button-width: 128px; 
+    --username-button-padding: 6px; 
+    --username-button-right-margin: 12px;
+
+    /*Server List*/
+    --server-icon-size: 32px;  
+    --server-outer-margin: 14px;  
+    --server-spacing: 10px;  
+
+    /*Server Info Bar*/
+    --app-info-bar-height: 48px; 
+}
