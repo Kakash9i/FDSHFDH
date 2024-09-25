@@ -243,9 +243,6 @@
 .winButton_a934d8 {
   color: var(--darkplus-sec);
 }
-.VoiceChatNotifications-button-icon {
-  color: var(--darkplus-sec);
-}
 .side-2ur1Qk .themed-2-lozF.selected-g-kMVV.item-3XjbnG,
 .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.item-3XjbnG {
   background: var(--darkplus-sec);
@@ -433,14 +430,6 @@ article.embedWrapper_b558d0.embedFlexGrow_b558d0.embedFull_b0068a.embed_b0068a.m
 
 .sidebar_a4d4d9 + div {
   background-color: var(--darkplus-bg);
-}
-
-.theme-dark .container_b2ca13 {
-  background-color: var(--darkplus-bg);
-}
-
-.chatContent_a7d72e {
-	max-width: calc(100% - 60px);
 }
 
 .title_a7d72e {
