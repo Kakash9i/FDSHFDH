@@ -23,26 +23,6 @@
   --darkplus-sec: #bb86fc;
   --darkplus-links: #cdaef3;
 }
-.bg_d4b6c5 {
-  background-color: var(--darkplus-bg);
-}
-.scrollerInner_e2e187 {
-  background-color: var(--darkplus-bg);
-}
-.container_fc4f04.themed_fc4f04 {
-  background: var(--darkplus-bg);
-}
-.content-2a4AW9 {
-  background-color: var(--darkplus-bg);
-}
-
-.sidebarRegion_c25c6d {
-  background-color: var(--darkplus-bg);
-}
-
-.searchBar_f0963d {
-  background-color: var(--darkplus-bg);
-}
 .searchBar_f0963d .searchBarComponent_f0963d {
   background-color: var(--darkplus-bg2);
   border-radius: 20px;
