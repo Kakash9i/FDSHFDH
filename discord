@@ -1125,11 +1125,6 @@ button[aria-label="Send a gift"] {
 .theme-dark .option-2KkUJO:after {
   background: transparent;
 }
-
-.textContent_cd82a7 {
-  color: var(--darkplus-bg);
-}
-
 .categoryItemDefaultCategorySelected_dfa278 .categoryIcon_dfa278,
 .categoryItemDefaultCategorySelected_dfa278:hover .categoryIcon_dfa278,
 .categoryItemDefaultCategory_dfa278:hover .categoryIcon_dfa278 {
